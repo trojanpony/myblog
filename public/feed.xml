@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Your Name]]></title>
+        <description><![CDATA[Your Name]]></description>
+        <link>https://yoursite.com</link>
+        <generator>RSS for Node</generator>
+        <lastBuildDate>Tue, 27 Jun 2023 13:11:40 GMT</lastBuildDate>
+        <atom:link href="https://yoursite.com/feed.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Relaunching my blog. Again.]]></title>
+            <description><![CDATA[My new personal blog/portfolio.]]></description>
+            <link>/posts/blog-relaunch</link>
+            <guid isPermaLink="true">/posts/blog-relaunch</guid>
+            <category><![CDATA[web development]]></category>
+            <dc:creator><![CDATA[Micah Crenwelge]]></dc:creator>
+            <pubDate>Thu, 22 Dec 2022 06:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Cutting out coffee]]></title>
+            <description><![CDATA[Cutting out coffee to improve my health]]></description>
+            <link>/posts/todays-thoughts</link>
+            <guid isPermaLink="true">/posts/todays-thoughts</guid>
+            <category><![CDATA[web development]]></category>
+            <dc:creator><![CDATA[Micah Crenwelge]]></dc:creator>
+            <pubDate>Mon, 26 Jun 2023 05:00:00 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
